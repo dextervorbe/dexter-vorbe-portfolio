@@ -47,7 +47,11 @@ const PROJECTS = [
     image: "/images/project-ravaas-bagels.png",
     liveUrl: "https://dextervorbe.github.io/ravaas-bagels/",
   },
-  { title: "Coming Soon", image: "", liveUrl: "" },
+  {
+    title: "Testimonial Page",
+    image: "/images/project-testimonial-page.png",
+    liveUrl: "https://dextervorbe.github.io/testimonial-page-master/",
+  },
   { title: "Coming Soon", image: "", liveUrl: "" },
   { title: "Coming Soon", image: "", liveUrl: "" },
   { title: "Coming Soon", image: "", liveUrl: "" },
