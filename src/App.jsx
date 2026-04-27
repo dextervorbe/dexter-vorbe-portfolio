@@ -212,7 +212,7 @@ function App() {
           <div className="contact-right">
             <div className="contact-photo-ring">
               <img
-                src="/images/contact-profile.png"
+                src="/images/contact-profile.jpeg"
                 alt="Dexter Vorbe profile portrait"
               />
             </div>
