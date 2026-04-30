@@ -50,7 +50,7 @@ const PROJECTS = [
   {
     title: "Testimonial Page",
     image: "/images/project-testimonial-page.png",
-    liveUrl: "https://dextervorbe.github.io/testimonial-page-master/",
+    liveUrl: "https://value-business-service.netlify.app/#home",
   },
   { title: "Coming Soon", image: "", liveUrl: "" },
   { title: "Coming Soon", image: "", liveUrl: "" },
