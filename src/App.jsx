@@ -52,7 +52,11 @@ const PROJECTS = [
     image: "/images/project-testimonial-page.png",
     liveUrl: "https://value-business-service.netlify.app/#home",
   },
-  { title: "Coming Soon", image: "", liveUrl: "" },
+  {
+    title: "Personal Finance App",
+    image: "/images/project-personal-finance-app.png",
+    liveUrl: "https://dextervorbe.github.io/personal-finance-app/",
+  },
   { title: "Coming Soon", image: "", liveUrl: "" },
   { title: "Coming Soon", image: "", liveUrl: "" },
 ];
